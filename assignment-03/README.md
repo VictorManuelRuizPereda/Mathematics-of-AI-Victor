@@ -1,1 +1,1 @@
-Assignment 03: Gaussian Geometry and KL Divergence
+Tarea 03: Geometría gaussiana y divergencia KL
