@@ -1,17 +1,17 @@
-# 🤖 Mathematics of AI (Spring 2026)
+# 🤖 Matemáticas de la IA (Primavera de 2026)
 
-Welcome to my official academic repository for the **Mathematics of AI** course. This space centralizes all computational scripts and structural theoretical analysis.
-
----
-
-## 👨‍💻 Student Profile
-* **Name:** Víctor Manuel Ruiz Pereda
-* **Degree:** Applied Mathematics and Computing (FES Acatlán)
+Bienvenidos a mi repositorio académico oficial del curso **Matemáticas de la IA**. Este espacio centraliza todos los scripts computacionales y el análisis teórico estructural.
 
 ---
-## 🗂️ Course Syllabus & Deliverables
-* `assignment-01/` ── Neural Networks Fundamentals & MNIST Dataset Evaluation
-* `assignment-02/` ── Singular Value Decomposition (SVD) Matrix Principles
-* `assignment-03/` ── Multivariate Gaussian Contours & Kullback-Leibler Relative Entropy
-* `assignment-04/` ── Bias-Variance Tradeoff Bounds & Stochastic Gradient Optimizers
-* `assignment-05/` ── Backpropagation Gradients, Attention Transformers & VAE Systems
+
+## 👨‍💻 Perfil del estudiante
+* **Nombre:** Víctor Manuel Ruiz Pereda
+* **Grado:** Matemáticas Aplicadas e Informática (FES Acatlán)
+
+---
+## 🗂️ Programa del curso y entregables
+* `assignment-01/` ── Fundamentos de redes neuronales y evaluación del conjunto de datos MNIST
+* `assignment-02/` ── Principios de la descomposición en valores singulares (SVD) de matrices
+* `assignment-03/` ── Contornos gaussianos multivariados y entropía relativa de Kullback-Leibler
+* `assignment-04/` ── Límites de compensación sesgo-varianza y optimizadores de gradiente estocástico
+* `assignment-05/` ── Retropropagación Gradientes, transformadores de atención y sistemas VAE
