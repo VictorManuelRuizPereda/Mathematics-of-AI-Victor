@@ -1,1 +1,1 @@
-Assignment 05: Deep Architectures and Latent Generative Models
+Tarea 05: Arquitecturas profundas y modelos generativos latentes
