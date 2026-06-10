@@ -6,7 +6,7 @@ Bienvenidos a mi repositorio académico oficial del curso **Matemáticas de la I
 
 ## 👨‍💻 Perfil del estudiante
 * **Nombre:** Víctor Manuel Ruiz Pereda
-* **Grado:** Matemáticas Aplicadas e Informática (FES Acatlán)
+* **Grado:** Matemáticas Aplicadas y Computacion FES Acatlán UNAM
 
 ---
 ## 🗂️ Programa del curso y entregables
